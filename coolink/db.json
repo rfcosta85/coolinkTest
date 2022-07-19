@@ -1,0 +1,34 @@
+{
+  "clients": [
+    {
+      "company": "Fiat",
+      "name": "Roberto Baggio",
+      "id": 3
+    },
+    {
+      "company": "Audi",
+      "name": "Thomas Muller",
+      "id": 4
+    },
+    {
+      "company": "Continente",
+      "name": "Cristiano Ronaldo",
+      "id": 5
+    },
+    {
+      "company": "Itau",
+      "name": "Ronaldinho",
+      "id": 6
+    },
+    {
+      "name": "Takuma Sato",
+      "company": "Honda",
+      "id": 7
+    },
+    {
+      "company": "Toyota",
+      "name": "Kagawa",
+      "id": 8
+    }
+  ]
+}
